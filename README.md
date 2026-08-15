@@ -1,7 +1,7 @@
 # My-Weekly-Expense-Calculator.
 A C program that splits your paycheck into savings, expenses, and investments
 This is a very Customized Calculator I made for me.
-Since i get paid daily It is hard for to calculate my expense daily or accurately bcz of academic pressure ,stress,boredom.
+Since i get paid daily It is hard for me to calculate my expense daily or accurately bcz of academic pressure ,stress,boredom.
 i thought why not try weekly than monthly bcz monthly is a very huge gap for me to make it work..
 I made it based on Reqiurement and lifestyle bcz i got cats too. 
 so that when they get sick i dont have to run around for them .............
