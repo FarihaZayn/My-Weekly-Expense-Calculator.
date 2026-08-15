@@ -1,4 +1,7 @@
 # My-Weekly-Expense-Calculator.
+""⚠️ This executable was compiled for Linux. Windows/Mac users would need to compile from source or run it in a Linux environment (like WSL).""
+
+
 A C program that splits your paycheck into savings, expenses, and investments
 This is a very Customized Calculator I made for me.
 Since i get paid daily It is hard for me to calculate my expense daily or accurately bcz of academic pressure ,stress,boredom.
