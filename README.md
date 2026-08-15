@@ -27,8 +27,9 @@ whatever u want is not enough for me and i dont even need to spend lots of money
 #### Example Output:
 <img width="871" height="717" alt="image" src="https://github.com/user-attachments/assets/f5048a0b-14b7-4aa9-afc1-4fff4dcb21f3" />
 
-also While making this calculator and leaving in bangladesh i wanted to end in 0 as a lsb number?
+also While making this calculator and living in bangladesh i wanted to end in 0 as a lsb number?
 bcz it is easy for me so i was like if i make it in in round up ,it might bite me.
 so i rounded it down.
+also dont mind my words ,kinda got dyslexia while DOPAMINE IS OVERFLOODING.
 
 
