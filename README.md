@@ -36,3 +36,16 @@ so i rounded it down.
 also dont mind my words ,kinda got dyslexia while DOPAMINE IS OVERFLOODING.
 
 
+
+How does this Numbering work???
+Well we take a one fix amount and ask how many days u have worked and we calculate based on that
+So total.
+Days*total
+Essential Expense : 55%
+Savings           : 15%
+Wealth Investment : 15%
+Whatever You Want : 5%
+Cat Medical       : 5%
+Cycle Maintanance : 2%
+Donation          : 2%
+Debt PayDown      : 1%
